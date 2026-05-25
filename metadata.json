@@ -1,0 +1,6 @@
+{
+  "name": "AI Waste Segregation Assistant",
+  "description": "An AI-based waste segregation assistant and area-wise waste analysis dashboard with interactive charts and upload classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

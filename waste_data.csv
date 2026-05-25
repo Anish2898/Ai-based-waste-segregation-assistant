@@ -1,0 +1,26 @@
+S.No,Area,Type of Area,Waste Type,Approx Waste Collected (kg/day),Collection Frequency,Source of Waste,Disposal Method
+1,Gudivada,Residential,Organic,450,Daily,Households,Composting
+2,Gudivada,Commercial,Plastic,120,Daily,Markets & Shops,Recycling
+3,Machilipatnam,Coastal,Plastic,210,Daily,Beach Tourism,Recycling
+4,Machilipatnam,Residential,Organic,380,Daily,Households,Composting
+5,Gudlavalleru,Institutional,Paper,80,Bi-weekly,College Campus,Recycling
+6,Gudlavalleru,Residential,Organic,150,Daily,Households,Composting
+7,Vijayawada,Urban Commercial,Plastic,540,Daily,Malls & Complex,Recycling
+8,Vijayawada,Urban Residential,Organic,1200,Daily,Households,Biogas Plant
+9,Vijayawada,Industrial,Metal,320,Weekly,Manufacturing Units,Smelting & Reuse
+10,Gudivada,Institutional,Paper,90,Weekly,Schools & Offices,Recycling
+11,Machilipatnam,Commercial,Organic,280,Daily,Fish Market,Composting
+12,Vijayawada,Healthcare,Medical Waste,150,Daily,Hospitals,Incineration
+13,Gudlavalleru,Residential,Plastic,65,Bi-weekly,Households,Recycling
+14,Gudivada,Domestic,Glass,45,Weekly,Households,Glass recycling plant
+15,Machilipatnam,Residential,Mixed Waste,180,Daily,Slums & Households,Landfill
+16,Gudlavalleru,Institutional,E-Waste,40,Monthly,IT Labs,Authorized e-waste recycler
+17,Vijayawada,Industrial,E-Waste,210,Bi-weekly,Tech Parks,Authorized e-waste recycler
+18,Gudivada,Commercial,Metal,55,Weekly,Automobile Shops,Scrap dealer
+19,Machilipatnam,Residential,Paper,95,Weekly,Households,Recycling
+20,Vijayawada,Urban Residential,Glass,110,Weekly,Households,Glass recycling plant
+21,Gudlavalleru,Offices,Mixed Waste,50,Bi-weekly,Offices,Landfill
+22,Gudivada,Healthcare,Medical Waste,60,Daily,Clinics,Incineration
+23,Machilipatnam,Healthcare,Medical Waste,80,Daily,Government Hospital,Incineration
+24,Vijayawada,Urban Commercial,Cardboard,240,Daily,Warehouses,Paper Mills
+25,Gudlavalleru,Agriculture,Organic,300,Daily,Farmland,Organic Manure
